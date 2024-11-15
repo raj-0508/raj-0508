@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am learning in allahabad university 
+i am study in allahabad university 
 
 
 # 💻 Tech Stack:
