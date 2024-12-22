@@ -14,8 +14,19 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Raj Singhaniya
 
 # 💫 About Me:
-I'm currently study in Allahabad university
-
+- 🌟 I am currently studying at Allahabad University.
+- 🚀 I am learning to become a Frontend Developer.
+- 💻 I enjoy building beautiful and responsive web interfaces.
+- 🎨 Passionate about UI/UX design and web performance optimization.
+- 🎯 My future goals:
+     - Master React.js for building dynamic web apps.
+     - Contribute to open source projects.
+     - Build and showcase my own portfolio website.
+- 🕒 In my free time, I enjoy:
+     - Exploring new technologies.
+     - Watching tutorials and working on personal projects
+      
+- Let’s connect and create something amazing together! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj.__.singhaniya) 
