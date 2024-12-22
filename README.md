@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-#👋 Hi, I'm Raj Singhaniya:
+# 👋 Hi, I'm Raj Singhaniya:
 
 # 💫 About Me:
 I'm currently study in Allahabad university
