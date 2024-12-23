@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=38&lines=👋+Hi+I'm+Raj+Singhaniya;Nice+To+Meet+You+....&center=true"></a></p>
 
-# 💫 About Me:
+![](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
+
+# 💫 About Me
 - 🌟 I am currently studying at Allahabad University.
 - 🚀 I am learning to become a Frontend Developer.
 - 💻 I enjoy building beautiful and responsive web interfaces.
@@ -30,9 +32,14 @@ Here are some ideas to get you started:
       
 - Let’s connect and create something amazing together! 🚀
 
+ ![](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj.__.singhaniya) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rajsinghaniya0508@gmail.com)
+
+
+![](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
 
 # 💻 Tech Stack:
@@ -49,5 +56,7 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raj-Singhaniya-0508&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
