@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me
-- 🌟 I am currently studying at Allahabad University.
+- 🌟 I am currently studying at Allahabad University in the MCA course.
 - 🚀 I am learning to become a Frontend Developer.
 - 💻 I enjoy building beautiful and responsive web interfaces.
 - 🎨 Passionate about UI/UX design and web performance optimization.
