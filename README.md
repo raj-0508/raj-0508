@@ -1,6 +1,4 @@
-
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60" alt="Raj Singhaniya Avatar" />
-
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60" alt="Raj Singhaniya Avatar" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=30&lines=👋+Hi,+I'm+Raj+Singhaniya;Frontend+Developer+%7C+React+%26+Node+JS+Engineer;Creating+Elegant+Interfaces+with+Powerful+Code&center=true" alt="Typing SVG" />
@@ -30,17 +28,17 @@
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" /><br>JavaScript</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React" /><br>React</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /><br>Node.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /><br>Python</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C" /><br>C</td>
+    <td align="center" width="100"><img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="45" alt="Appwrite" /><br>Appwrite</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" /><br>MySQL</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br>Git</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /><br>GitHub</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="45" alt="Netlify" /><br>Netlify</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" /><br>Vercel</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux" /><br>Linux</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows" /><br>Windows</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code" /><br>VS Code</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /><br>Python</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C" /><br>C</td>
+
   </tr>
 </table>
 
@@ -76,7 +74,6 @@
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" style="width:100%; max-width:800px;" height="2px" />
-
 
 <p align="center">
   <em>"Code is poetry — let's write beautiful experiences on the web."</em>
