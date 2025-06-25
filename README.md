@@ -49,19 +49,33 @@
 <h3 align="center"><samp>🌐 Connect with Me</samp></h3>
 
 <p align="center">
-  <a href="https://github.com/raj-0508" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-  </a>
-  <a href="mailto:rajsinghaniya0508@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/raj-05r08/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/raj._.singhaniya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
-  </a>
+  <span>
+    <a href="https://github.com/raj-0508" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+    </a>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="mailto:rajsinghaniya0508@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
+    </a>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://www.linkedin.com/in/raj-05r08/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+    </a>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://www.instagram.com/raj._.singhaniya/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
+    </a>
+  </span>
 </p>
+
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" style="width:100%; max-width:800px;" height="2px" />
 
