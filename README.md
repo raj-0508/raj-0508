@@ -49,17 +49,17 @@
 <h3 align="center"><samp>🌐 Connect with Me</samp></h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/raj.__.singhaniya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/raj-05r08/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  <a href="https://github.com/raj-0508" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
   </a>
   <a href="mailto:rajsinghaniya0508@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
   </a>
-  <a href="https://github.com/raj-0508" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/raj-05r08/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/raj._.singhaniya/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
 </p>
 
