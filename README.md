@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=30&lines=👋+Hi,+I'm+Raj+Singhaniya;Frontend+Developer+%7C+React+%26+Node+JS+Engineer;Creating+Elegant+Interfaces+with+Powerful+Code&center=true" alt="Typing SVG" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" style="width:100%; max-width:800px;" height="2px" />
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" width="100%" style="max-width:800px;" />
+</p>
 
 <h3 align="center"><samp>💫 About Me</samp></h3>
 
@@ -14,7 +16,9 @@
 - 🌐 Strong advocate for clean code, performance optimization, and accessibility.
 - 🚀 Believer in continuous learning, open-source collaboration, and purposeful innovation.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" style="width:100%; max-width:800px;" height="2px" />
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" width="100%" style="max-width:800px;" />
+</p>
 
 <h3 align="center"><samp>💻 Tech Stack</samp></h3>
 
@@ -44,7 +48,9 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" style="width:100%; max-width:800px;" height="2px" />
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" width="100%" style="max-width:800px;" />
+</p>
 
 <h3 align="center"><samp>🌐 Connect with Me</samp></h3>
 
@@ -77,7 +83,9 @@
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" style="width:100%; max-width:800px;" height="2px" />
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="divider" width="100%" style="max-width:800px;" />
+</p>
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 
