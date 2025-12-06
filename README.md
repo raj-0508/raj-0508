@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60" alt="Raj Singhaniya Avatar" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=30&lines=👋+Hi,+I'm+Raj+Singhaniya;Frontend+Developer+%7C+React+%26+Next+JS+Engineer;Creating+Elegant+Interfaces+with+Powerful+Code&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=30&lines=👋+Hi,+I'm+Raj+Singhaniya;Full+Stack+Developer+%7C+React+%26+Next+JS+Engineer;Creating+Elegant+Interfaces+with+Powerful+Code&center=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
