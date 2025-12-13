@@ -11,7 +11,7 @@
 <h3 align="center"><samp>💫 About Me</samp></h3>
 
 - 🎓 MCA student at **Central University of Allahabad**, driven by a passion for crafting aesthetic and efficient web interfaces.
-- ⚛️ Proficient in **React.js** and **Node.js**, building scalable and maintainable applications.
+- ⚛️ Proficient in **Next.js** **React.js** and **Node.js**, building scalable and maintainable applications.
 - 🎨 Enthusiast of modern UI/UX design systems, responsive grids, and pixel-perfect layouts.
 - 🌐 Strong advocate for clean code, performance optimization, and accessibility.
 - 🚀 Believer in continuous learning, open-source collaboration, and purposeful innovation.
